@@ -23,7 +23,7 @@ ASCII yörünge simülasyonu.
   * iz = 0 veya 1
   * rastgele mod = 0
   * nokta1 = 80 15 4000 * 0 0
-  * nokta2 = 80 15 1 + 0 20
+  * nokta2 = 70 20 1 + 0 20
   * zaman = 0.05
   * G = 1
 4. Çarpışma
