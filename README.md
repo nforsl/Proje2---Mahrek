@@ -34,4 +34,4 @@ ASCII yörünge simülasyonu.
   * zaman  = 0.05
   * G = 1
 
-    Gibi örnekler mevcut. Semboller rastgele verilebilir tamamen keyfi. Daha fazla hareket modeli denenerek bulunabilir.
+    Gibi örnekler mevcut. Semboller rastgele verilebilir tamamen keyfi. Daha fazla hareket modeli denenerek bulunabilir. Girdiler README'de yazıldığı formatta girilir. Kod içerisinde de zaten girdiler için yönlendirmeler mevcuttur.
