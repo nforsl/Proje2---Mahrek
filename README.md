@@ -50,7 +50,7 @@ ASCII yörünge simülasyonu.
 7. Yörünge 2 ( hareketli ) 
   * iz = 1
   * rastgele mod = 0
-  * nokta1 = 200 100 150000 @ a b ( a ve b değerleri 0'a yakın olmak şartıyla keyfi olarak değerler alabilir. )
+  * nokta1 = 200 100 150000 @ a b ( a ve b değerleri 0'a yakın olmak şartıyla keyfi olarak değerler alabilir. eğer 0'a yakın olmazsa küçük cisim, büyük cismin etkisinden çıkabilir ve güzel bir görüntü ortaya çıkmaz. Karmaşa olur. )
   * nokta2 = 170 100 1 o 0 92
   * zaman = 0.05
   * G = 1
