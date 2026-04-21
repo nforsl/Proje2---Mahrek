@@ -40,5 +40,18 @@ ASCII yörünge simülasyonu.
   * nokta2 = 20 5 1 o 32 6
   * zaman = 0.05
   * G = 1
-
+6. Yörünge 2
+  * iz = 1
+  * rastgele mod = 0
+  * nokta1 = 200 100 150000 @ 0 0
+  * nokta2 = 170 100 1 o 0 92
+  * zaman = 0.05
+  * G = 1
+7. Yörünge 2 ( hareketli ) 
+  * iz = 1
+  * rastgele mod = 0
+  * nokta1 = 200 100 150000 @ a b ( a ve b değerleri 0'a yakın olmak şartıyla keyfi olarak değerler alabilir. )
+  * nokta2 = 170 100 1 o 0 92
+  * zaman = 0.05
+  * G = 1
     Gibi örnekler mevcut. Semboller rastgele verilebilir tamamen keyfi. Daha fazla hareket modeli denenerek bulunabilir. Girdiler README'de yazıldığı formatta girilir. Kod içerisinde de zaten girdiler için yönlendirmeler mevcuttur.
